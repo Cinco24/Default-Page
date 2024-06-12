@@ -1,0 +1,46 @@
+.auth-class-container {
+    width: 300px;
+    min-height: 250px;
+    border: 8px solid blue;
+    margin: auto;
+    padding: 15px;
+    box-sizing: border-box;
+   }
+
+.auth-class-container .text-label {
+    display: block;
+    margin-bottom: 5px;
+ }
+
+.auth-class-container .text-input{
+    height: 30px;
+    display: block;
+    width: 100%;
+    border-color: blue;
+ }
+
+.form-group{
+    margin-bottom: 10px;
+ }
+
+.form-group1{
+    margin-bottom: 10px;
+    text-align: center;      
+ }
+
+.shesvla {
+    display: block;
+    width: 100%;
+    height: 35px;
+    background-color: rgb(41, 41, 231);
+    color: white;
+    border: 0;
+    cursor: pointer;
+    margin-bottom: 15px;
+ }
+
+.agdgena{
+    display: block;
+    text-align: center;
+    font-size: 13px;
+ }

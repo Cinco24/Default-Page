@@ -1,0 +1,153 @@
+.auth-class-container {
+    width: 300px;
+    min-height: 250px;
+    border: 8px solid blue;
+    margin: auto;
+    padding: 15px;
+    box-sizing: border-box;
+    margin-top: 25px;
+   }
+
+.auth-class-container .text-span {
+    display: block;
+    margin-bottom: 5px;
+ }
+
+.auth-class-container .text-input{
+    height: 30px;
+    display: block;
+    width: 100%;
+    border-color: blue;
+ }
+
+.form-group{
+    margin-bottom: 10px;
+ }
+
+.form-group1{
+    margin-bottom: 10px;
+    text-align: center;      
+ }
+
+.shesvla {
+    display: block;
+    width: 100%;
+    height: 35px;
+    margin-top: 15px;
+    font-size: 20px;
+    background-color: rgb(206, 206, 255);
+    color: white;
+    border: 0;
+    cursor: pointer;
+    margin-bottom: 15px;
+}
+
+ .locations{
+    height: 30px;
+    display: block;
+    width: 100%;
+    box-sizing: border-box;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-color: blue;
+}
+
+.gender{
+    align-items: center;
+    padding: 5px;
+}
+
+.save{
+    margin-top: 7px;
+    margin-bottom: 7px;
+    text-align: center;
+    padding: 2px;
+    margin-left: 20px;
+    margin-right: 20px;
+    line-height: 24px;
+    list-style: none;
+    background-color: rgb(166, 185, 238);
+}
+
+.linki{
+    text-decoration: none;
+    align-items: center;
+}
+
+.border{
+        width: 80%;
+        border: 2px solid blue;
+        border-right: 0px; 
+        border-left: 0px;    
+        border-bottom: 0px;
+        margin: auto;
+        box-sizing: border-box;
+}
+
+.border1{
+    width: 95%;
+    border: 2px solid blue;
+    border-right: 0px; 
+    border-left: 0px;    
+    border-bottom: 0px;
+    margin: auto;
+    box-sizing: border-box;
+}
+
+.border2{
+    width: 87%;
+    border: 2px solid blue;
+    border-right: 0px; 
+    border-left: 0px;    
+    border-bottom: 0px;
+    padding: 1.5px;
+    margin: auto;
+    box-sizing: border-box;
+}
+
+header{
+    height: 60px;
+    background-color: rgb(61, 61, 243);
+}
+
+body{
+    margin: 0px;
+}
+
+.container{
+    width: 1400px;
+    margin: auto;
+}
+
+.logo{
+    display: block;
+    width: 40px;
+    height: 40px;
+}
+
+nav a{
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    font-size: 20px;
+}
+
+.d-flex{
+    display: flex;
+}
+
+header .container{
+    align-items: center;
+}
+
+nav{
+    width: calc(100% - 25px);
+    justify-content: space-between;
+}
+
+.border-a{
+    width: 50%;
+   border-bottom: 1px solid white;
+    margin: auto;
+    margin-bottom: 10px;
+}
